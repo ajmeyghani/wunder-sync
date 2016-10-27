@@ -1,0 +1,17 @@
+{
+  "name": "wunder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "cid=x token=y node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wunderlist": "^0.1.3"
+  }
+}
+
+
+
